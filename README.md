@@ -6,12 +6,10 @@ Users can explore key factors such as age, salary, job role, education, experien
 
 ## Project Structure
 
-Employee-Attrition-Dashboard/
-│
-├── attrition_dashboard.R
-├── Employee Attrition.csv
-└── README.md
-
+- Employee-Attrition-Dashboard/
+- attrition_dashboard.R
+- Employee_Attrition.csv
+- README.md
 
 ## Features
 
@@ -31,12 +29,9 @@ install.packages(c("shiny", "dplyr", "ggplot2", "shinydashboard"))
 
 1. Open **RStudio**
 2. Set your working directory:
-
-setwd("path_to_your_folder")
-
+   setwd("path_to_your_folder")
 3. Run the app:
-
-shiny::runApp()
+   shiny::runApp()
 
 
 ##  Dataset
@@ -47,4 +42,4 @@ shiny::runApp()
 
 ##  Author
 
-**Maahi Gupta**
+  Maahi Gupta 
