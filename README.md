@@ -6,7 +6,7 @@ Users can explore key factors such as age, salary, job role, education, experien
 
 ## Project Structure
 
-- Employee-Attrition-Dashboard/
+- Employee-Attrition-Dashboard
 - attrition_dashboard.R
 - Employee_Attrition.csv
 - README.md
