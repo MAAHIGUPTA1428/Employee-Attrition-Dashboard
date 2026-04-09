@@ -11,6 +11,7 @@ Users can explore key factors such as age, salary, job role, education, experien
 - Employee_Attrition.csv
 - README.md
 
+
 ## Features
 
 * Interactive filters for exploring attrition trends
@@ -22,7 +23,7 @@ Users can explore key factors such as age, salary, job role, education, experien
 
 Install the required R packages:
 
-install.packages(c("shiny", "dplyr", "ggplot2", "shinydashboard"))
+install.packages(c("shiny", "shinydashboard", "dplyr", "ggplot2", "DT", "tidyr", "readr", "plotly", "shinythemes", "shinyWidgets"))
 
 
 ## How to Run
